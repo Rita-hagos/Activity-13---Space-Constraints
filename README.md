@@ -17,7 +17,7 @@ There are two nested loops, so it creates about n² combinations.
     array[left] = array[right];
     array [right} = temp;
 
-    left++;
+left++;
     right--;  
     }
       return array;
